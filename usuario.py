@@ -1,2 +1,6 @@
 print("Mantenimiento de Usuarios")
 print("Estoy Modificando esto")
+print("Caso de uso registrar usuario")
+print("Caso de uso editar usuario")
+print("Caso de uso listar usuario")
+print("Caso de uso eliminar usuario")
