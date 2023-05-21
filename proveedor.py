@@ -1,1 +1,5 @@
 print("Proveedor")
+print("Caso de uso registrar proveedor")
+print("Caso de uso editar proveedor")
+print("Caso de uso listar proveedor")
+print("Caso de uso eliminar proveedor")
