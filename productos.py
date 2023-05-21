@@ -1,2 +1,6 @@
 print("Formulario Producto")
 print("Registrar un nuevo producto")
+print("Caso de uso registrar producto")
+print("Caso de uso editar producto")
+print("Caso de uso listar producto")
+print("Caso de uso eliminar producto")
